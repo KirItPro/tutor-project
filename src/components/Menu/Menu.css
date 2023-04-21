@@ -1,0 +1,43 @@
+.menu-block {
+    left: 0;
+    top: 0;
+    background-color: rgba(171, 19, 177, 0.5);
+    background-size: cover;
+    width: 100vw;
+    height: 100vh;
+    position: absolute;
+    z-index: 1;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 20px;
+    justify-content: center;
+    pointer-events: none;
+    opacity: 0;
+    transition: all .4s;
+}
+.menu-block.open {
+    pointer-events: all;
+    opacity: 1;
+    transition: all .4s;
+}
+
+.link-burger {
+    font-size: 25px;
+    margin: 20px;
+    padding: 10px;
+    cursor: pointer;
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+    font-weight: bolder;
+    background: linear-gradient(to bottom, #ff4000e0 5%, #ffffffc5 80%);
+    border: 3px solid rgba(219, 219, 219, 0.651);
+    border-radius: 5px;
+    transition: all .2s;
+}
+.link-burger:hover {
+    color: rgb(255, 255, 255);
+    transform: scale(1.05);
+    transition: all .2s;
+}

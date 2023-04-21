@@ -1,0 +1,47 @@
+.contacts-modal{
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100vh;
+    background-color: rgba(171, 19, 177, 0.5);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    pointer-events: none;
+    opacity: 0;
+    transition: .5s;
+    z-index: 3;
+}
+.contacts-modal.active {
+    opacity: 1;
+    pointer-events: all;
+}
+.conacts-modal_info-box {
+    padding: 30px;
+    justify-content: center;
+    align-items: center;
+    background-color: rgba(38, 36, 44, 0.596);
+    
+    border: 3px rgba(243, 242, 245, 0.849) solid;
+    border-radius: 20px;
+    box-shadow: -10px 20px 10px 0px rgba(34, 60, 80, 0.26);
+    transform:scale(0);
+    transition: .4s all;
+}
+.conacts-modal_info-box.active {
+    transform: scale(1);
+}
+.conacts-modal_info-box_icons {
+    display: flex;
+    gap: 20px;
+    justify-content: center;
+}
+.conacts-modal_link {
+    width: 60px;;
+}
+.conacts-modal_link:hover {
+    transform: scale(1.2);
+    cursor:pointer;
+    border-radius: 20px;
+}
