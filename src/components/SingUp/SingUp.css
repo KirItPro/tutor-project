@@ -1,0 +1,24 @@
+.form {
+    display: flex;
+    justify-content: center;
+    padding-bottom: 40px;
+}
+.textInput {
+    height: 30px;
+    display: flex;
+    padding-left: 5px;
+    margin: 8px auto;
+    background-color: #86461b9f;
+    color: #FFFFFF;
+    font-size: 20px;
+    border-radius: 5px;
+}
+.error {
+    color: #fc2020;
+    font-size: 16px;
+    letter-spacing: 0.1em;
+    font-family:'Times New Roman', Times, serif ;
+    margin-bottom: 5px;
+    background-color: #00000096;
+    border-radius: 5px;
+}

@@ -5,7 +5,7 @@ const Footer = () => {
         <footer className="footer">
             <div className="container">
                 <p className="footer-text">
-                    © Все права защищены бла бла бла ....
+                    © 2023 Репетитор по математике. On-line 
                 </p>
             </div>
         </footer>

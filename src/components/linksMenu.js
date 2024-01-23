@@ -5,7 +5,7 @@ export const linksMenu = [
     },
     {
         name: 'Записаться',
-        path: '/'
+        path: 'singUp'
     },
     {
         name: 'Видеокурс ОГЭ',
@@ -15,4 +15,4 @@ export const linksMenu = [
         name: 'Тренировочные задания',
         path: 'tests'
     },
-]
+];
