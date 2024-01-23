@@ -1,22 +1,30 @@
 {
   "files": {
-    "main.css": "/tutor-project/static/css/main.883cd6c6.css",
-    "main.js": "/tutor-project/static/js/main.5c506963.js",
+    "main.css": "/tutor-project/static/css/main.6cf83cab.css",
+    "main.js": "/tutor-project/static/js/main.b57503e9.js",
     "static/media/promo-bg.png": "/tutor-project/static/media/promo-bg.bfa7162e22f4e79900e0.png",
     "static/media/julia.png": "/tutor-project/static/media/julia.e0a59c49f485fcf976ec.png",
     "static/media/bg-fon.jpg": "/tutor-project/static/media/bg-fon.7746d0855da1197793eb.jpg",
+    "static/media/sale.png": "/tutor-project/static/media/sale.951927aa31862772eb2d.png",
+    "static/media/alexandra.jpeg": "/tutor-project/static/media/alexandra.c1846ba64a47ead16f9f.jpeg",
+    "static/media/margarita.jpeg": "/tutor-project/static/media/margarita.1a6ec150b16eb2218c15.jpeg",
+    "static/media/pavel.jpeg": "/tutor-project/static/media/pavel.9d046794f81a94a78ca1.jpeg",
+    "static/media/sona.jpeg": "/tutor-project/static/media/sona.9290b3d56827a2eaf510.jpeg",
+    "static/media/mamaalex.jpeg": "/tutor-project/static/media/mamaalex.840fa71c13d8cd629877.jpeg",
+    "static/media/diana.jpeg": "/tutor-project/static/media/diana.567545a98695cb9f8e6b.jpeg",
     "static/media/whatsapp.png": "/tutor-project/static/media/whatsapp.f396298f5a6f6b672355.png",
+    "static/media/arina.jpeg": "/tutor-project/static/media/arina.d1b1a56197e733cc7c28.jpeg",
     "static/media/face.png": "/tutor-project/static/media/face.bad324702e2c32aeb45e.png",
     "static/media/inst.svg": "/tutor-project/static/media/inst.a0a9a83448ddb5827d70493a84d37806.svg",
     "static/media/telega.svg": "/tutor-project/static/media/telega.7b32e0699fa280a656aa08186d1e6bd5.svg",
     "index.html": "/tutor-project/index.html",
     "static/media/left.svg": "/tutor-project/static/media/left.91858915794d9808cfdc31e6123b5161.svg",
     "static/media/right.svg": "/tutor-project/static/media/right.3c89539dfda16d861f40de0a35733d61.svg",
-    "main.883cd6c6.css.map": "/tutor-project/static/css/main.883cd6c6.css.map",
-    "main.5c506963.js.map": "/tutor-project/static/js/main.5c506963.js.map"
+    "main.6cf83cab.css.map": "/tutor-project/static/css/main.6cf83cab.css.map",
+    "main.b57503e9.js.map": "/tutor-project/static/js/main.b57503e9.js.map"
   },
   "entrypoints": [
-    "static/css/main.883cd6c6.css",
-    "static/js/main.5c506963.js"
+    "static/css/main.6cf83cab.css",
+    "static/js/main.b57503e9.js"
   ]
 }
