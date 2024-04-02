@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/tutor-project/static/css/main.cc396a92.css",
-    "main.js": "/tutor-project/static/js/main.1107e30a.js",
+    "main.css": "/tutor-project/static/css/main.c4356e41.css",
+    "main.js": "/tutor-project/static/js/main.8a9010dd.js",
     "static/media/promo-bg.png": "/tutor-project/static/media/promo-bg.bfa7162e22f4e79900e0.png",
     "static/media/julia.png": "/tutor-project/static/media/julia.e0a59c49f485fcf976ec.png",
     "static/media/bg-fon.jpg": "/tutor-project/static/media/bg-fon.7746d0855da1197793eb.jpg",
@@ -20,11 +20,11 @@
     "index.html": "/tutor-project/index.html",
     "static/media/left.svg": "/tutor-project/static/media/left.91858915794d9808cfdc31e6123b5161.svg",
     "static/media/right.svg": "/tutor-project/static/media/right.3c89539dfda16d861f40de0a35733d61.svg",
-    "main.cc396a92.css.map": "/tutor-project/static/css/main.cc396a92.css.map",
-    "main.1107e30a.js.map": "/tutor-project/static/js/main.1107e30a.js.map"
+    "main.c4356e41.css.map": "/tutor-project/static/css/main.c4356e41.css.map",
+    "main.8a9010dd.js.map": "/tutor-project/static/js/main.8a9010dd.js.map"
   },
   "entrypoints": [
-    "static/css/main.cc396a92.css",
-    "static/js/main.1107e30a.js"
+    "static/css/main.c4356e41.css",
+    "static/js/main.8a9010dd.js"
   ]
 }
