@@ -5,9 +5,9 @@ import axios from 'axios';
 import './SingUp.css';
 
 const SingUp = () => {
-    const TOKEN = '6266909021:AAEfSlazTXvzaY3dLcN2yBDpQALxc8_H6b4',
-        CHAT_ID = '-1001987297565',
-        URI_IP =`https://api.telegram.org/bot${TOKEN}/sendMessage`;
+    const TOKEN = '',
+        CHAT_ID = '',
+        URI_IP =``;
 
     return (
         <Formik
