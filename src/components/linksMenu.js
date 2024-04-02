@@ -1,18 +1,18 @@
 export const linksMenu = [
     {
         name: 'Главная',
-        path: '/'
+        path: 'tutor-project'
     },
     {
         name: 'Записаться',
-        path: 'singUp'
+        path: 'tutor-project/singUp'
     },
     {
         name: 'Видеокурс ОГЭ',
-        path: 'videocourse'
+        path: 'tutor-project/videocourse'
     },
     {
         name: 'Тренировочные задания',
-        path: 'tests'
+        path: 'tutor-project/tests'
     },
 ];

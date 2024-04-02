@@ -4,9 +4,6 @@ import { linksMenu } from '../linksMenu';
 import './Kit.css';
 
 const Kit = () => {
-    function routeToForm () {
-
-    }
     return (
         <section className="kit">
             <div className="container">

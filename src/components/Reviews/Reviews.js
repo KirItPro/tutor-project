@@ -1,13 +1,12 @@
 import './Reviews.css';
 import LEFT_VECTOR from '../images/left.svg';
 import RIGHT_VECTOR from '../images/right.svg';
-import FACE from '../images/face.png';
 import { Link } from 'react-router-dom';
 import { data } from '../dataReviews';
 import { useEffect, useState } from 'react';
 
 const Reviews = () => {
-    const [people, setPeople] = useState(data);
+    const people = data;
     const [peopleIndex, setPeopleIndex] = useState(0);
     const [expandedReviews, setExpandedReviews] = useState([]);
 
@@ -28,11 +27,6 @@ const Reviews = () => {
         }
     }, [peopleIndex]);
 
- 
-    // const inputReviewText = (e) => {
-    //     e.target.value = e.target.value.substring(0, 100);
-    //         console.log(e.target.value)
-    // }
     let position = 'reviews-block';
     return (
         <section className="reviews">

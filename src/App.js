@@ -21,10 +21,10 @@ function App() {
       <Contacts active={activeModal} setActive={setActiveModal}/>
 
         <Routes>
-          <Route path='/' element={ <><Home/> <Kit/> <Reviews/></>}/>
-          <Route path='videocourse' element={<VideoCourse/>}/>
-          <Route path='tests' element={<Tests/>}/>
-          <Route path='singUp' element={<SingUp/>}/>
+          <Route path='tutor-project' element={ <><Home/> <Kit/> <Reviews/></>}/>
+          <Route path='tutor-project/videocourse' element={<VideoCourse/>}/>
+          <Route path='tutor-project/tests' element={<Tests/>}/>
+          <Route path='tutor-project/singUp' element={<SingUp/>}/>
         </Routes>
 
       <Footer/>
